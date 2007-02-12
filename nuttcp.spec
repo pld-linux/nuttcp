@@ -1,5 +1,5 @@
 Summary:	Network bandwidth measurement tool
-Summary(pl.UTF-8):   Narzędzie do monitorowania przepustowości sieci
+Summary(pl.UTF-8):	Narzędzie do monitorowania przepustowości sieci
 Name:		nuttcp
 Version:	5.3.1
 Release:	1
